@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="IdentityGuardAdminAPIV11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/IdentityGuardAdminAPIV11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/IdentityGuardAuthAPIV11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="main_background">#ffffff</color>
+	<color name="title_bg">#4d6684</color>
+	<color name="btn_cancel_over">#a6a6a6</color>
+    <color name="btn_cancel_none">#7c7c7c</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_ok_over">#5b6b82</color>
+    <color name="btn_ok_none">#304159</color>
+    
+    <color name="warning_color">#f4511e</color>
+    <color name="success_color">#009688</color>
+    <color name="hint_color">#000000</color>
+    
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+</resources>

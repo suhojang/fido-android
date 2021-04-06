@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">생체인증 데모</string>
+    <string name="action_settings">설정</string>
+    <string name="fingerprint_not_recognized">지문인식에 실패하였습니다. 재시도해 주시기 바랍니다.</string>
+    <string name="fingerprint_success">지문 인식이 정상적으로 처리되었습니다.</string>
+    <string name="fingerprint_hint">지문을 인식 시켜 주십시오.</string>
+    
+    <string name="low_storage_error">디바이스 저장공간이 부족하여 얼굴인식 프로세스를 다운로드 할 수 없습니다.\n저장공간을 확보해 주세요.</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="entrust-aspect-9.1.0.387">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/entrust-aspect-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/entrust-common-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/entrust-config-api-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/entrust-ec-client-api-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/entrust-ens-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/entrust-isvc-common-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/entrust-log4j-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/entrust-log4j-web-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/entrust-springsecurity-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/entrust-urs-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/entrust-webapp-9.1.0.387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/enttoolkit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
