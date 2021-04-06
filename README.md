@@ -7,5 +7,5 @@
 > 지문인식 같은경우 자체 local repository에 지문 data를 저장하고, PKI기술을 이용하여 검증을 한다는 것을 알게 되었습니다.
 
 ```
-git clone https://github.com/suhojang/FCM-PushManager.git
+git clone https://github.com/suhojang/fido-android.git
 ```
